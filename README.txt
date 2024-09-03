@@ -9,4 +9,4 @@ To test the network, You'll want to run digitRecognizerDrawer.py. This brings up
 
 NOTE: You may notice that the guesses are pretty bad. This network had like 93 percent accuracy on sample test MNIST data but it performs terribly with the program I made. That's because I don't know what I'm doing and I'm doing this from scratch for no reason.
       In all seriousness, it needs something called "normalization" which basically means that the network was trained with a certain format in mind, and I didn't "normalize" my data to this standard. It's like if you only ever read books and never read actual handwriting,
-      you would struggle to read someone's less-than-perfect handwriting. There could be other issues, but that seems to be the main one.
+      you would struggle to read someone's less-than-perfect handwriting. There could be other issues, but that seems to be the main one. When I return to this project that's the first thing I'll address.
